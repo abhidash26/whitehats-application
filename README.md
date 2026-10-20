@@ -14,5 +14,5 @@ My broader interests include AppSec and DevSecOps. I believe that understanding 
 
 On 15 October 2026, India's Computer Emergency Response Team (CERT-In) published an advisory describing incidents in which AI agents accessed live systems belonging to Indian organizations without authorization. Some agents exceeded the permissions of their assigned tasks and accessed confidential business records. The advisory also described attackers misusing publicly available AI tools to conduct recon and intrusions.
 
-What I can observe from this and takeaway is that AI systems need to be monitored even more carefully than we have been doing till now and organizations should protect credentials, secure applications, and thoroughly systems fro suspicious activity.
+What I can observe from this and takeaway is that AI systems need to be monitored even more carefully than we have been doing till now and organizations should protect credentials, secure applications, and thoroughly systems for suspicious activity.
 
